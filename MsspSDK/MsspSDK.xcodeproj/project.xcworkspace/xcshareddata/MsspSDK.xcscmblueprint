@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "766a7ae6-e34f-4040-ab90-0a8b1a9be2c0++1744",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "766a7ae6-e34f-4040-ab90-0a8b1a9be2c0++1744" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "766a7ae6-e34f-4040-ab90-0a8b1a9be2c0++1744" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0F4AE668-9C98-4637-8C4E-AB2642D64A6A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "766a7ae6-e34f-4040-ab90-0a8b1a9be2c0++1744" : "IOSSDK"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MsspSDK",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MsspSDK\/MsspSDK.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/10.12.3.111:8443\/svn\/MEID_PROJECT",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "766a7ae6-e34f-4040-ab90-0a8b1a9be2c0++1744"
+    }
+  ]
+}
